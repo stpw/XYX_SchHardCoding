@@ -1,0 +1,15 @@
+D:\SchHardCoding\SchHardCoding\SchHardCoding\bin\Debug\SchHardCoding.exe.config
+D:\SchHardCoding\SchHardCoding\SchHardCoding\bin\Debug\SchHardCoding.exe
+D:\SchHardCoding\SchHardCoding\SchHardCoding\bin\Debug\SchHardCoding.pdb
+D:\SchHardCoding\SchHardCoding\SchHardCoding\bin\Debug\SchHardCoding.xml
+D:\SchHardCoding\SchHardCoding\SchHardCoding\bin\Debug\AxInterop.SHDocVw.dll
+D:\SchHardCoding\SchHardCoding\SchHardCoding\obj\x86\Debug\SchHardCoding.vbprojResolveAssemblyReference.cache
+D:\SchHardCoding\SchHardCoding\SchHardCoding\obj\x86\Debug\SchHardCoding.Fm_main.resources
+D:\SchHardCoding\SchHardCoding\SchHardCoding\obj\x86\Debug\SchHardCoding.FrmLogin.resources
+D:\SchHardCoding\SchHardCoding\SchHardCoding\obj\x86\Debug\SchHardCoding.index.resources
+D:\SchHardCoding\SchHardCoding\SchHardCoding\obj\x86\Debug\SchHardCoding.Resources.resources
+D:\SchHardCoding\SchHardCoding\SchHardCoding\obj\x86\Debug\SchHardCoding.vbproj.GenerateResource.Cache
+D:\SchHardCoding\SchHardCoding\SchHardCoding\obj\x86\Debug\SchHardCoding.exe
+D:\SchHardCoding\SchHardCoding\SchHardCoding\obj\x86\Debug\SchHardCoding.xml
+D:\SchHardCoding\SchHardCoding\SchHardCoding\obj\x86\Debug\SchHardCoding.pdb
+D:\SchHardCoding\SchHardCoding\SchHardCoding\obj\x86\Debug\SchHardCoding.Form1.resources

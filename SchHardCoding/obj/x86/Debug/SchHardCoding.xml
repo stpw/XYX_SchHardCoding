@@ -1,0 +1,95 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SchHardCoding
+</name>
+</assembly>
+<members>
+<member name="M:SchHardCoding.GetAppConfig.GetValue(System.String)">
+	<summary>
+ 通用方法獲取配置文件的設定值
+ </summary>
+	<param name="keyName">key名稱</param>
+	<returns>配置文件的設定值</returns>
+	<remarks></remarks>
+</member><member name="M:SchHardCoding.SqlDb.ExecuteBulkCopy(System.Data.DataTable@,System.String,System.String)">
+	<summary>
+ 注：sourceTable欄位（包括名稱\順序）須和數據庫中表完全一致
+ </summary>
+	<param name="sourceTable">來源Table</param>
+	<param name="destinationTable">目標Table</param>
+	<param name="connectionString">連接字符串</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SchHardCoding.Mod_Common.StringIsNothing(System.Object)">
+	<summary>
+ 判斷字串是否為Nothing
+ </summary>
+	<param name="bufstr">要判斷的字串變數</param>
+	<returns>回傳True表示為Nothing , 回傳False表示不為Nothing</returns>
+	<remarks></remarks>
+</member><member name="P:SchHardCoding.My.Resources.Resources.ResourceManager">
+	<summary>
+  傳回這個類別使用的快取的 ResourceManager 執行個體。
+</summary>
+</member><member name="P:SchHardCoding.My.Resources.Resources.Culture">
+	<summary>
+  覆寫目前執行緒的 CurrentUICulture 屬性，對象是所有
+  使用這個強類型資源類別的資源查閱。
+</summary>
+</member><member name="P:SchHardCoding.My.Resources.Resources._01f0075aa1dfb6a80121246debcafe">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="P:SchHardCoding.My.Resources.Resources.网页APP刷新加载等待元素标识动态GIF图标_爱给网_aigei_com">
+	<summary>
+  查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+</summary>
+</member><member name="T:SchHardCoding.My.Resources.Resources">
+	<summary>
+  用於查詢當地語系化字串等的強類型資源類別。
+</summary>
+</member><member name="M:SchHardCoding.Mod_Function.SecToDay(System.Int32)">
+	<summary>
+ 將秒數轉成天數
+ </summary>
+	<param name="second">秒</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SchHardCoding.Mod_Function.RunID(System.String)">
+	<summary>
+ 產生日期時間
+ 例如：產生編號 HeadStr  092 08 01 12 45 30 字串
+ </summary>
+	<param name="HeadStr">標頭字串</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SchHardCoding.Mod_Function.EMailCheck(System.String)">
+	<summary>
+ 檢查Email文字串中是否包含@
+ </summary>
+	<param name="eMail">電子郵件位址</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SchHardCoding.Mod_Function.CountSurplusTime(System.DateTime)">
+	<summary>
+ 計算傳入的日期時間與目前的差距為何
+ </summary>
+	<param name="SetEndDate">傳入日期時間</param>
+	<returns>秒</returns>
+	<remarks></remarks>
+</member><member name="M:SchHardCoding.Mod_Function.patchBlankSpace(System.Int32,System.String)">
+	<summary>
+ 於數字前面補上空格功能方法
+  8
+  9
+ 10
+ </summary>
+	<param name="bufNum">傳入數字</param>
+	<param name="blankspaceNum">所需控制數字總長度</param>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
